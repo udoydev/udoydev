@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Imran Nazir Udoy</h1>
 <h3 align="center">Love to Learn and know about new things</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=udoydev&label=Profile%20views&color=0e75b6&style=flat" alt="udoydev" /> </p>
 - 🔭 I’m currently working on **Data Science,Web devlopment**
 
 - 🌱 I’m currently learning **DSA,Data Science,Web devlopment**
