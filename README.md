@@ -30,8 +30,8 @@
 
 ## 📊 Contribution Activity
 
-### Weekly Activity (Default)
-![Udoy's Weekly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&theme=react-dark&area=true&hide_border=true)
+### Past 7 Days Contribution Activity
+![Udoy's 7-Day GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2025-05-04&to=2025-05-11&theme=react-dark&area=true&hide_border=true)
 
 ---
 
