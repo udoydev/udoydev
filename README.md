@@ -31,6 +31,13 @@
 
 ---
 
+<h3 align="left">🗓️ GitHub Contribution Graph</h3>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Udoy's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=udoydev&bg_color=0d1117&color=ffffff&line=00b3ff&point=ffffff&area=true&hide_border=true"/>
+</a>
+
+
 ### 🛠️ Languages and Tools:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
