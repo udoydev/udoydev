@@ -37,5 +37,9 @@
 
 ### 🧠 Motivation Tip (Updated Daily by Mentor)
 
-> “Discipline is choosing between what you want now and what you want most.”  
-> 👉 Stay consistent. Keep learning. Earn your transformation.
+> **“Indeed, Allah will not change the condition of a people until they change what is in themselves.”**  
+> _(Surah Ar-Ra’d 13:11)_  
+>  
+> 👉 Stay consistent. Keep learning. Earn your transformation.  
+
+---
