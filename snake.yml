@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily
+  push:
+    branches: [main]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: platane/snk@v3
+        with:
+          github_user_name: udoydev
+          outputs: |
+            output/snake.svg?color_snake=orange&color_dots=#bfd6f6,#8db0d4,#638aa9,#476a7e,#2d4a54
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake-svg
+          path: output/snake.svg
+      - run: git config --global user.name 'github-actions[bot]'
+      - run: git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      - run: git add output/snake.svg
+      - run: git commit -m "Update snake animation" || echo "No changes to commit"
+      - run: git push || echo "No changes to push"
