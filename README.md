@@ -1,63 +1,46 @@
-# Hi 👋, I'm Md Imran Nazir Udoy
-### 🚀 Web Developer | 📊 Data Science Learner | 🎮 Gamer | 📹 Video Editor | 📈 Competitive Programmer
+Hi 👋, I'm Md Imran Nazir Udoy
+🚀 Web Developer | 📊 Data Science Learner | 🎮 Gamer | 📹 Video Editor | 📈 Competitive Programmer
 
----
+🧠 About Me
 
-## 🧠 About Me
+🔭 I’m currently working on Full Stack Web Development
+🌱 I’m currently learning Data Science and Competitive Programming
+👯 I’m looking to collaborate on Open Source Projects
+📫 Reach me: udoyofficial@gmail.com
+💬 Ask me about React, Node.js, Express, C++, Python, Editing, Motion Graphics
 
-- 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m currently learning **Data Science and Competitive Programming**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me: **udoyofficial@gmail.com**
-- 💬 Ask me about **React, Node.js, Express, C++, Python, Editing, Motion Graphics**
 
----
+🔗 Connect with Me
 
-## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+📈 GitHub Stats
 
----
 
-## 📈 GitHub Stats
+📊 Contribution Activity
+Toggle Contribution Views
 
-![Udoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udoydev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udoydev&layout=compact&theme=radical)
-
----
-
-## 📊 Contribution Activity
-
-### Toggle Contribution Views
-
-<details open>
-  <summary>Weekly (Default)</summary>
+  Weekly (Default)
   ![Udoy's Weekly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&theme=react-dark&area=true&hide_border=true)
-</details>
 
-<details>
-  <summary>Daily (May 1 - May 11, 2025)</summary>
+
+
+  Daily (May 1 - May 11, 2025)
   ![Udoy's Daily GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2025-05-01&to=2025-05-11&theme=dracula&area=true&hide_border=true)
-</details>
 
-<details>
-  <summary>Monthly (May 1 - May 31, 2025)</summary>
+
+
+  Monthly (May 1 - May 31, 2025)
   ![Udoy's Monthly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2025-05-01&to=2025-05-31&theme=merko&area=true&hide_border=true)
-</details>
 
-<details>
-  <summary>Yearly (Jan 1 - Dec 31, 2024)</summary>
+
+
+  Yearly (Jan 1 - Dec 31, 2024)
   ![Udoy's Yearly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2024-01-01&to=2024-12-31&theme=rogue&area=true&hide_border=true)
-</details>
 
----
 
-## 💻 Sample Code
+
+💻 Sample Code
 Here’s a Python script to fetch and visualize your GitHub contribution data using the GitHub API:
-
-```python
 import requests
 import matplotlib.pyplot as plt
 
@@ -89,13 +72,10 @@ plt.title("Udoy's GitHub Contributions")
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
-```
 
-*Note: You need a GitHub personal access token with repo scope. Install matplotlib (`pip install matplotlib`) to run this. This is a basic example—expand it for weekly/monthly/yearly views.*
+Note: You need a GitHub personal access token with repo scope. Install matplotlib (pip install matplotlib) to run this. This is a basic example—expand it for weekly/monthly/yearly views.
 
----
+🧠 Motivation Tip (Updated Daily by Mentor)
 
-### 🧠 Motivation Tip (Updated Daily by Mentor)
+“Discipline is choosing between what you want now and what you want most.”👉 Stay consistent. Keep learning. Earn your transformation.
 
-> “Discipline is choosing between what you want now and what you want most.”  
-> 👉 Stay consistent. Keep learning. Earn your transformation.
