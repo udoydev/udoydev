@@ -1,80 +1,54 @@
 <h1 align="center">Hi 👋, I'm Md Imran Nazir Udoy</h1>
-<h3 align="center">🚀 A passionate learner of Data Science, Web Development, and DSA</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udoydev&label=Profile%20views&color=0e75b6&style=flat" alt="udoydev" />
-</p>
+<h3 align="center">🚀 Web Developer | 📊 Data Science Learner | 🎮 Gamer | 📹 Video Editor | 📈 Competitive Programmer</h3>
 
 ---
 
-- 🔭 I’m currently working on **Data Science & Web Development Projects**
-- 🌱 I’m currently learning **DSA, Machine Learning, Django, and Backend Development**
-- 🤝 I’m looking for collaboration in **Data Science & Open Source Projects**
-- 💬 Ask me about **Python, JavaScript, Django, C++, Node.js**
-- ⚡ Fun fact: **I love watching sports & cartoons to relax my mind**
+## 🧠 About Me
+
+- 🔭 I’m currently working on **Full Stack Web Development**
+- 🌱 I’m currently learning **Data Science and Competitive Programming**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 📫 Reach me: **udoyofficial@gmail.com**
+- 💬 Ask me about **React, Node.js, Express, C++, Python, Editing, Motion Graphics**
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-imran-nazir-udoy-116555328/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/md imran nazir udoy" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/mr_uranium" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" alt="codechef" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/mr.uranium" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codeforces.svg" alt="codeforces" height="30" width="40" />
-  </a>
-</p>
+## 📈 GitHub Stats
+
+![Udoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udoydev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udoydev&layout=compact&theme=radical)
 
 ---
 
-<h3 align="left">💻 Languages & Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40"/>
-</p>
+## 📊 Contribution Activity (Weekly by Default)
+
+[![Udoy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 📅 View Contributions by Time Period
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udoydev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+Choose from below:
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=udoydev&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+- 🟢 [**Daily**](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2025-05-01&to=2025-05-11&theme=react-dark&area=true)
+- 🔵 [**Monthly**](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2025-05-01&to=2025-05-31&theme=react-dark&area=true)
+- 🟠 [**Yearly**](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2024-01-01&to=2024-12-31&theme=react-dark&area=true)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udoydev&" alt="Streak Stats" />
-</p>
+You can click these links to see different periods' contribution charts.
 
 ---
 
-<h3 align="left">🗓️ GitHub Contribution Activity:</h3>
+## 🔗 Connect with Me
 
-<!-- ⚠️ Make sure you have public contributions otherwise this may look empty -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udoydev&bg_color=0d1117&color=ffffff&line=00b3ff&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udoydev&theme=github_dark" />
-</p>
+### 🧠 Motivation Tip (Updated Daily by Mentor)
+
+> “Discipline is choosing between what you want now and what you want most.”  
+> 👉 Stay consistent. Keep learning. Earn your transformation.
+
+---
