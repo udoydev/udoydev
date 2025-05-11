@@ -1,89 +1,80 @@
 <h1 align="center">Hi 👋, I'm Md Imran Nazir Udoy</h1>
-<h3 align="center">🚀 Passionate about Learning | Data Science | Web Development | DSA</h3>
+<h3 align="center">🚀 A passionate learner of Data Science, Web Development, and DSA</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=udoydev&label=Profile%20views&color=0e75b6&style=flat" alt="udoydev" />
 </p>
 
-- 🔭 I’m currently working on **Data Science** and **Web Development**
-- 🌱 I’m currently learning **DSA**, **Backend Dev**, and **Advanced Python**
-- 🤝 I’m looking to collaborate on **Open Source Data Science Projects**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-imran-nazir-udoy-116555328/)
-- ⚡ Fun fact: I love watching sports 🏏 and cartoons 🎮
+---
+
+- 🔭 I’m currently working on **Data Science & Web Development Projects**
+- 🌱 I’m currently learning **DSA, Machine Learning, Django, and Backend Development**
+- 🤝 I’m looking for collaboration in **Data Science & Open Source Projects**
+- 💬 Ask me about **Python, JavaScript, Django, C++, Node.js**
+- ⚡ Fun fact: **I love watching sports & cartoons to relax my mind**
 
 ---
 
-### 🌐 Connect with me:
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/md-imran-nazir-udoy-116555328/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://fb.com/md imran nazir udoy" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/mr_uranium" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="codechef" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" alt="codechef" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/mr.uranium" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="codeforces" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codeforces.svg" alt="codeforces" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🗓️ GitHub Contribution Graph</h3>
+<h3 align="left">💻 Languages & Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40"/>
+</p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Udoy's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=udoydev&bg_color=0d1117&color=ffffff&line=00b3ff&point=ffffff&area=true&hide_border=true"/>
-</a>
+---
 
+<h3 align="left">📊 GitHub Stats:</h3>
 
-### 🛠️ Languages and Tools:
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udoydev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=udoydev&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udoydev&" alt="Streak Stats" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="left">🗓️ GitHub Contribution Activity:</h3>
+
+<!-- ⚠️ Make sure you have public contributions otherwise this may look empty -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udoydev&bg_color=0d1117&color=ffffff&line=00b3ff&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udoydev&show_icons=true&locale=en&theme=radical" alt="udoydev" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udoydev&theme=github_dark" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udoydev&theme=radical" alt="streak-stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udoydev&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
-</p>
-
----
-
-### 🧠 Daily Motto
-> **"Discipline > Motivation. Show up, improve, and never quit."**
-
----
-
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/udoydev/udoydev/blob/output/github-contribution-grid-snake.svg)
-
----
-
-🔔 **Pro Tips:**
-- Keep contributing to your pinned repos weekly.
-- Link your GitHub profile to your resume and portfolio.
-- Make a few beginner-friendly issues for open-source collaboration.
-
----
-
