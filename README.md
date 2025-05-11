@@ -13,6 +13,14 @@
 
 ---
 
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)  
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+
+---
+
 ## 📈 GitHub Stats
 
 ![Udoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udoydev&show_icons=true&theme=radical)  
@@ -22,17 +30,27 @@
 
 ## 📊 Contribution Activity
 
-### Weekly Activity (Default)
-![Udoy's Weekly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&theme=react-dark&area=true&hide_border=true)
+### Toggle Contribution Views
 
-### Daily Activity (May 1 - May 11, 2025)
-![Udoy's Daily GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2025-05-01&to=2025-05-11&theme=react-dark&area=true&hide_border=true)
+<details open>
+  <summary>Weekly (Default)</summary>
+  ![Udoy's Weekly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&theme=react-dark&area=true&hide_border=true)
+</details>
 
-### Monthly Activity (May 1 - May 31, 2025)
-![Udoy's Monthly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2025-05-01&to=2025-05-31&theme=react-dark&area=true&hide_border=true)
+<details>
+  <summary>Daily (May 1 - May 11, 2025)</summary>
+  ![Udoy's Daily GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2025-05-01&to=2025-05-11&theme=dracula&area=true&hide_border=true)
+</details>
 
-### Yearly Activity (Jan 1 - Dec 31, 2024)
-![Udoy's Yearly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2024-01-01&to=2024-12-31&theme=react-dark&area=true&hide_border=true)
+<details>
+  <summary>Monthly (May 1 - May 31, 2025)</summary>
+  ![Udoy's Monthly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2025-05-01&to=2025-05-31&theme=merko&area=true&hide_border=true)
+</details>
+
+<details>
+  <summary>Yearly (Jan 1 - Dec 31, 2024)</summary>
+  ![Udoy's Yearly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2024-01-01&to=2024-12-31&theme=rogue&area=true&hide_border=true)
+</details>
 
 ---
 
@@ -74,14 +92,6 @@ plt.show()
 ```
 
 *Note: You need a GitHub personal access token with repo scope. Install matplotlib (`pip install matplotlib`) to run this. This is a basic example—expand it for weekly/monthly/yearly views.*
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 
 ---
 
