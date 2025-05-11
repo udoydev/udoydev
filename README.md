@@ -20,13 +20,13 @@
 
 ---
 
-## 📊 Contribution Activity (Weekly by Default)
+## 📊 Contribution Activity
+
+### Weekly Activity
 
 [![Udoy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-## 📅 View Contributions by Time Period
+### View Contributions by Time Period
 
 Choose from below:
 
