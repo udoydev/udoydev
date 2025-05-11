@@ -1,5 +1,5 @@
 # Hi 👋, I'm Md Imran Nazir Udoy
-### 🚀 📊 Data Science Enthusiasts| Web Web Developer  | 🎮 Gamer | 📹 Love to Editing and Animation stuffs | 📈 Problem Solving (begginer phase)
+### 🚀 📊 Data Science Enthusiast | Web  Developer  | 🎮 Gamer | 📹 Love to Editing and Animation stuffs | 📈 Problem Solving (begginer phase)
 
 ---
 
