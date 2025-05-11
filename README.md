@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Academic Projects**
 - 🌱 I’m currently learning **Data Science and Competitive Programming**
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Data Science (begginer projects and Research )**
 - 📫 Reach me: **imrannazirudoy@gmail.com**
 
 
