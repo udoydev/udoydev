@@ -13,11 +13,11 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **Academic Projects**
 - 🌱 I’m currently learning **Data Science and Competitive Programming**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me: **udoyofficial@gmail.com**
-- 💬 Ask me about **React, Node.js, Express, C++, Python, Editing, Motion Graphics**
+- 📫 Reach me: **imrannazirudoy@gmail.com**
+
 
 ---
 
