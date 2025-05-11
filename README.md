@@ -17,25 +17,29 @@ Hi 👋, I'm Md Imran Nazir Udoy
 
 
 📊 Contribution Activity
-Toggle Contribution Views
 
-  Weekly (Default)
-  ![Udoy's Weekly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&theme=react-dark&area=true&hide_border=true)
+  Toggle Contribution Views
 
+  
+    Weekly (Default)
+    ![Udoy's Weekly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&theme=react-dark&area=true&hide_border=true)
+  
 
+  
+    Daily (May 1 - May 11, 2025)
+    ![Udoy's Daily GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2025-05-01&to=2025-05-11&theme=dracula&area=true&hide_border=true)
+  
 
-  Daily (May 1 - May 11, 2025)
-  ![Udoy's Daily GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2025-05-01&to=2025-05-11&theme=dracula&area=true&hide_border=true)
+  
+    Monthly (May 1 - May 31, 2025)
+    ![Udoy's Monthly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2025-05-01&to=2025-05-31&theme=merko&area=true&hide_border=true)
+  
 
+  
+    Yearly (Jan 1 - Dec 31, 2024)
+    ![Udoy's Yearly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2024-01-01&to=2024-12-31&theme=rogue&area=true&hide_border=true)
+  
 
-
-  Monthly (May 1 - May 31, 2025)
-  ![Udoy's Monthly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2025-05-01&to=2025-05-31&theme=merko&area=true&hide_border=true)
-
-
-
-  Yearly (Jan 1 - Dec 31, 2024)
-  ![Udoy's Yearly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udoydev&from=2024-01-01&to=2024-12-31&theme=rogue&area=true&hide_border=true)
 
 
 
