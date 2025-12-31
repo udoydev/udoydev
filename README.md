@@ -1,5 +1,5 @@
 # Hi 👋, I'm Md Imran Nazir Udoy
-### 🚀 📊 Data Science Enthusiast | Backend  | Researcher  | 📈 Problem Solver
+###  ML Enthusiast  | Backend Developer | Researcher 
 
 # 💫 About Me:
 I'm currently working on Research and Projects<br>I'm  currently learning ML , Django<br>
