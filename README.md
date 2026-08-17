@@ -66,26 +66,8 @@
 <h2>📊 GitHub Analytics</h2>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=udoydev&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bb9af7&text_color=c0caf5&bg_color=00000000" />
-      </td>
-      <td>
-        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udoydev&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=c0caf5&bg_color=00000000" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="98%" src="https://nirzak-streak-stats.vercel.app/?user=udoydev&theme=tokyonight&hide_border=true&background=00000000&ring=70a5fd&fire=ff9e64&currStreakLabel=70a5fd" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- Footer Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,11,1&height=100&section=footer" width="100%"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=udoydev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udoydev&layout=compact&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=udoydev&theme=tokyonight&hide_border=true" />
 </div>
