@@ -12,7 +12,7 @@
 
 <!-- Social & Portfolio Badges -->
 <a href="https://inudoy.me" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-inudoy.me-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-inudoy.me-2563EB" />
 </a>
 <a href="https://linkedin.com/in/imran-nazir-udoy" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -32,8 +32,8 @@
 | 👤 **Name** | Md Imran Nazir Udoy |
 | :--- | :--- |
 | 🌐 **Website** | [inudoy.me](https://inudoy.me) |
-| 📚 **Currently Learning** | Deep Learning with PyTorch, Weakly-Supervised Attention MIL, Scalable Backend Architectures |
-| 💡 **Interests** | Computational Biology & Pathology, ML / DL, Cyber Security & IoT Botnet Detection, Postgres & Django |
+| 📚 **Currently Learning** | Backend , ML Architectures, Scalable Backend Architectures |
+| 💡 **Interests** | Computational Biology , ML / DL, Cyber Security & IoT Botnet Detection, Postgres & Django |
 
 <br>
 
