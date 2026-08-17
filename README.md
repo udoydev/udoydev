@@ -5,7 +5,7 @@
 
 <!-- Typing Dynamic Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Django+%7C+Postgres;Researcher+%7C+ML+DL+%7C+Computational+Biology+%7C+Cyber+Security;Discover+more+projects+at+inudoy.me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Django+%7C+PostgreSQL;Researcher+%7C+ML+%7C+DL+%7C+Computational+Biology+%7C+Cyber+Security;Discover+more+about+me+at+inudoy.me" alt="Typing SVG" />
 </a>
 
 <br><br>
