@@ -66,13 +66,7 @@
 <h2>📊 GitHub Analytics</h2>
 
 <div align="center">
-  <!-- Main Stats Card -->
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=udoydev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  
-  <!-- Top Languages Card -->
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=udoydev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  
-  <br><br>
+
 
   <!-- Streak Stats Card -->
   <img height="160" src="https://streak-stats.demolab.com/?user=udoydev&theme=tokyonight&hide_border=true" />
