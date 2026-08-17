@@ -45,9 +45,10 @@
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,c,js,php,html,css" /> |
-| **Deep Learning & Data** | <img src="https://skillicons.dev/icons?i=pandas,numpy,Matplotlib" /> |
+| **Deep Learning & Data** | <img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy,matplot" /> |
+| **Data Science & Analytics** | <img src="https://skillicons.dev/icons?i=powerbi,anaconda,jupyter,kaggle,colab" /> |
 | **Backend & Web** | <img src="https://skillicons.dev/icons?i=django,flask,tailwind,bootstrap" /> |
-| **Databases & Tools** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,linux,bash,PowerBI" /> |
+| **Databases & Tools** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,linux,bash" /> |
 | **Creative & Media** | <img src="https://skillicons.dev/icons?i=pr,ae,canva,drawio" /> |
 
 </div>
