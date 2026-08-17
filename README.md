@@ -5,19 +5,22 @@
 
 <!-- Typing Dynamic Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=Weakly-Supervised+Deep+Learning+%26+Pathology;Multi-Modal+Classification+%7C+PyTorch+%7C+Attention+MIL;Scalable+Backend+Pipelines+%7C+Django+%26+FastAPI;Exploring+IoT+Security+%26+Explainable+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Django+%7C+Postgres;Researcher+%7C+ML+DL+%7C+Computational+Biology+%7C+Cyber+Security;Discover+more+projects+at+inudoy.me" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<!-- Social Badges -->
-<a href="https://linkedin.com/in/imran-nazir-udoy">
+<!-- Social & Portfolio Badges -->
+<a href="https://inudoy.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-inudoy.me-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/imran-nazir-udoy" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mdimran095m@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/udoydev">
+<a href="https://github.com/udoydev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -28,8 +31,9 @@
 <!-- Overview Grid -->
 | 👤 **Name** | Md Imran Nazir Udoy |
 | :--- | :--- |
-| 📚 **Currently Learning** | Deep Learning with PyTorch, Weakly-Supervised Attention MIL, Advanced Django & Scalable Backend Architectures |
-| 💡 **Interests** | Computational Pathology, Multi-Modal Deep Learning, IoT Botnet Detection, Explainable AI (Grad-CAM/Score-CAM) |
+| 🌐 **Website** | [inudoy.me](https://inudoy.me) |
+| 📚 **Currently Learning** | Deep Learning with PyTorch, Weakly-Supervised Attention MIL, Scalable Backend Architectures |
+| 💡 **Interests** | Computational Biology & Pathology, ML / DL, Cyber Security & IoT Botnet Detection, Postgres & Django |
 
 <br>
 
@@ -41,10 +45,10 @@
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,c,js,php,html,css" /> |
-| **Deep Learning & Data** | <img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy,opencv,tensorflow" /> |
-| **Backend & Web** | <img src="https://skillicons.dev/icons?i=django,flask,fastapi,tailwind,bootstrap" /> |
-| **Databases & Tools** | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,git,github,vscode,linux,bash" /> |
-| **Creative & Media** | <img src="https://skillicons.dev/icons?i=pr,ae" /> |
+| **Deep Learning & Data** | <img src="https://skillicons.dev/icons?i=pandas,numpy,Matplotlib" /> |
+| **Backend & Web** | <img src="https://skillicons.dev/icons?i=django,flask,tailwind,bootstrap" /> |
+| **Databases & Tools** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,linux,bash,PowerBI" /> |
+| **Creative & Media** | <img src="https://skillicons.dev/icons?i=pr,ae,canva,drawio" /> |
 
 </div>
 
