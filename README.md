@@ -1,49 +1,46 @@
-<body style="background-color:red">
-
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=200&section=header&text=Md%20Imran%20Nazir%20Udoy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20Researcher%20•%20Backend%20Engineer&descAlignY=58&descSize=16&descColor=a5b4fc" width="100%"/>
+<!-- Header Banner (Vibrant Red Gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:7f1d1d,50:dc2626,100:991b1b&height=200&section=header&text=Md%20Imran%20Nazir%20Udoy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20Researcher%20•%20Backend%20Engineer&descAlignY=58&descSize=16&descColor=fecaca" width="100%"/>
 
-<!-- Typing Dynamic Subtitle -->
+<!-- Typing Dynamic Subtitle (Red / Coral Glow) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Django+%7C+PostgreSQL;Researcher+%7C+ML+%7C+DL+%7C+Computational+Biology+%7C+Cyber+Security;Discover+more+about+me+at+inudoy.me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=EF4444&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Django+%7C+PostgreSQL;Researcher+%7C+ML+%7C+DL+%7C+Computational+Biology+%7C+Cyber+Security;Discover+more+about+me+at+inudoy.me" alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
-<!-- Social & Portfolio Badges -->
+<!-- Social & Portfolio Badges (Red Theme) -->
 <a href="https://inudoy.me" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-inudoy.me-2563EB" />
+  <img src="https://img.shields.io/badge/Portfolio-inudoy.me-E53E3E?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/imran-nazir-udoy" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-C53030?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mdimran095m@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-9B2C2C?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/udoydev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-742A2A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 <br>
 
-
 <!-- Overview Grid -->
 | 👤 **Name** | Md Imran Nazir Udoy |
 | :--- | :--- |
 | 🌐 **Website** | [inudoy.me](https://inudoy.me) |
-| 📚 **Currently Learning** | Backend , ML Architectures, Scalable Backend Architectures |
-| 💡 **Interests** | Computational Biology , ML / DL, Cyber Security & IoT Botnet Detection, Postgres & Django |
+| 📚 **Currently Learning** | Backend Systems, ML Architectures, Scalable Microservices |
+| 💡 **Interests** | Computational Biology, ML / DL, Cyber Security & IoT Botnet Detection, PostgreSQL & Django |
 
 <br>
 
 <!-- Tech Stack Section -->
 <h2>🛠️ Skills & Tech Stack</h2>
 
-<div >
+<div align="center">
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
@@ -56,32 +53,18 @@
 
 </div>
 
+<br>
 
-
-<!--  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
-
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
-
--->
-
-<!-- GitHub Analytics -->
+<!-- GitHub Analytics (Radical Red Theme) -->
 <h2>📊 GitHub Analytics</h2>
 
 <div align="center">
-
-
-  <!-- Streak Stats Card -->
-  <img height="160" src="https://streak-stats.demolab.com/?user=udoydev&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=udoydev&theme=radical&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&hide_border=true" />
 </div>
 
+<br>
 
-
-
-
-
-
-
-
-  
-</body>
+<!-- Footer Banner (Vibrant Red Gradient) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:991b1b,50:dc2626,100:7f1d1d&height=100&section=footer" width="100%"/>
+</div>
