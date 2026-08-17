@@ -1,18 +1,24 @@
 <div align="center">
 
-<!-- Header Banner (Vibrant Red Gradient) -->
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:7f1d1d,50:dc2626,100:991b1b&height=200&section=header&text=Md%20Imran%20Nazir%20Udoy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20Researcher%20•%20Backend%20Engineer&descAlignY=58&descSize=16&descColor=fecaca" width="100%"/>
 
-<!-- Typing Dynamic Subtitle (Red / Coral Glow) -->
+<!-- Motivational Islamic Quote / Hadith Banner -->
+<blockquote>
+  <b>« إِنَّ مَعَ الْعُسْرِ يُسْرًا »</b><br>
+  <i>"Indeed, with hardship comes ease."</i> — [Quran 94:6]
+</blockquote>
+
+<!-- Typing Dynamic Subtitle -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=EF4444&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Django+%7C+PostgreSQL;Researcher+%7C+ML+%7C+DL+%7C+Computational+Biology+%7C+Cyber+Security;Discover+more+about+me+at+inudoy.me" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<!-- Social & Portfolio Badges (Red Theme) -->
+<!-- Social & Portfolio Badges -->
 <a href="https://inudoy.me" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-E53E3E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-inudoy.me-E53E3E?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/imran-nazir-udoy" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-C53030?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -55,7 +61,7 @@
 
 <br>
 
-<!-- GitHub Analytics (Radical Red Theme) -->
+<!-- GitHub Analytics -->
 <h2>📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -64,7 +70,17 @@
 
 <br>
 
-<!-- Footer Banner (Vibrant Red Gradient) -->
+<!-- Footer Section with Hadith on Knowledge & Striving -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:991b1b,50:dc2626,100:7f1d1d&height=100&section=footer" width="100%"/>
+
+<blockquote>
+  <b>« مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ »</b><br>
+  <i>"Whoever travels a path in pursuit of knowledge, Allah will make easy for him a path to Paradise."</i> — [Sahih Muslim 2699]
+</blockquote>
+
+<br>
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:991b1b,50:dc2626,100:7f1d1d&height=100&section=footer" width="100%"/>
+
 </div>
