@@ -40,7 +40,7 @@
 <!-- Tech Stack Section -->
 <h2>🛠️ Skills & Tech Stack</h2>
 
-<div align="center">
+<div >
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
