@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Django+%7C+PostgreSQL;Researcher+%7C+ML+%7C+DL+%7C+Computational+Biology+%7C+Cyber+Security;Discover+more+about+me+at+inudoy.me" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br>
 
 <!-- Social & Portfolio Badges -->
 <a href="https://inudoy.me" target="_blank">
@@ -26,7 +26,7 @@
 
 </div>
 
-<br>
+
 
 <!-- Overview Grid -->
 | 👤 **Name** | Md Imran Nazir Udoy |
@@ -53,7 +53,7 @@
 
 </div>
 
-<br>
+
 
 <!--  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
 
