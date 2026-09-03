@@ -17,7 +17,7 @@
 <br><br>
 
 <!-- Social & Portfolio Badges -->
-<a href="https://inudoy.me" target="_blank">
+<a href="[https://inudoy.me](https://www.inudoy.me/)" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-E53E3E?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/imran-nazir-udoy" target="_blank">
