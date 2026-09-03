@@ -37,7 +37,7 @@
 <!-- Overview Grid -->
 | 👤 **Name** | Md Imran Nazir Udoy |
 | :--- | :--- |
-| 🌐 **Website** | [inudoy.me](https://inudoy.me) |
+| 🌐 **Website** | [inudoy.me](https://www.inudoy.me) |
 | 📚 **Currently Learning** | Backend Systems, ML Architectures, Scalable Microservices |
 | 💡 **Interests** | Computational Biology, ML / DL, Cyber Security & IoT Botnet Detection, PostgreSQL & Django |
 
